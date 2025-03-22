@@ -5,3 +5,6 @@
 3. [Figma](https://www.figma.com/design/G733NoaQk8ztIGTS2Kej8S/Untitled?node-id=0-1&t=KpUl8mBDcPCB8o92-1)
 4. [Сфера.Карта проектов](https://docs.google.com/document/d/1F4BYGLVhhYAfQl4pe44TuwbKdHMzWIGq/edit?usp=sharing&ouid=117390693292771594358&rtpof=true&sd=true)
 5. [Диаграммы](https://drive.google.com/file/d/16RisovRi9zleF_f_cZ0UAn_70bSe1-Qd/view?usp=sharing)
+6. [...](https://surl.li/tgbjdz)
+
+![Alt Text](/point-at-you-point.gif)
